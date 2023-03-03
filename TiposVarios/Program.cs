@@ -12,11 +12,13 @@ namespace TiposVarios
             string cf = "\u00A6";
             float A = 19.11f;
             double AA = 87.45e-79;
+            bool B = false;
+            bool BB = true;
             for (int i = 0; i < 3; i++)
             {
                 Console.WriteLine(i);
             }
-             Console.WriteLine("Variaveis Inteiras");
+            Console.WriteLine("Variaveis Inteiras");
             Console.WriteLine(ca);
             Console.WriteLine(cs);
             Console.WriteLine(cd);
@@ -24,8 +26,9 @@ namespace TiposVarios
             Console.WriteLine("Reais");
             Console.WriteLine(A);
             Console.WriteLine(AA);
-            
-
+            Console.WriteLine("Booleans");
+            Console.WriteLine(B);
+            Console.WriteLine(BB);
         }
     }
 }
