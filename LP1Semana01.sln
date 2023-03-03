@@ -7,6 +7,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OlaMundo", "OlaMundo\OlaMun
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Argumentos", "Argumentos\Argumentos.csproj", "{3958FC9A-5081-42A8-B23F-63262DEF1C12}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TiposVarios", "TiposVarios\TiposVarios.csproj", "{54A505F0-DF13-4D9F-AF03-275E0AAD004A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -24,5 +26,9 @@ Global
 		{3958FC9A-5081-42A8-B23F-63262DEF1C12}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3958FC9A-5081-42A8-B23F-63262DEF1C12}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3958FC9A-5081-42A8-B23F-63262DEF1C12}.Release|Any CPU.Build.0 = Release|Any CPU
+		{54A505F0-DF13-4D9F-AF03-275E0AAD004A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{54A505F0-DF13-4D9F-AF03-275E0AAD004A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{54A505F0-DF13-4D9F-AF03-275E0AAD004A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{54A505F0-DF13-4D9F-AF03-275E0AAD004A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
